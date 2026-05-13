@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-05-13T09:55:46.827Z",
+  "epoch": 177,
+  "bribes": [
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 0,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "9025535699"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "9015535699",
+      "for_pool": {
+        "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
+      },
+      "gauge": "project",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "2253883924"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 1,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "3229834178"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "3219834178",
+      "for_pool": {
+        "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
+      },
+      "gauge": "project",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "804958544"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 2,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "4517767849"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "4507767849",
+      "for_pool": {
+        "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
+      },
+      "gauge": "bluechip",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "1126941962"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 3,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "2263883924"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "2253883924",
+      "for_pool": {
+        "cw20": "terra19d8tttv0lvhwpj828qqrcmm6yaqdfhrchfheuufcw4kywtmk9u3q98ask3"
+      },
+      "gauge": "bluechip",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "563470981"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 4,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "1297933671"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "1287933671",
+      "for_pool": {
+        "cw20": "terra19xrvvkq5607xudcxvw444yycjz6e3vk3l8p633z68k0vv5q09wnsa9q2qt"
+      },
+      "gauge": "bluechip",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "321983417"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 5,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "1297933671"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "1287933671",
+      "for_pool": {
+        "cw20": "terra1a5apghncafx0nem740fsrmd6demaywvp332a4uat63u2jtwn8mgsz7khkw"
+      },
+      "gauge": "bluechip",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "321983417"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 6,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "1297933671"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "1287933671",
+      "for_pool": {
+        "cw20": "terra1wdzdltygkgqyuvggnqnxsny9vhfyex92kzaz6zkued2wvp7nvxpsv739js"
+      },
+      "gauge": "bluechip",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "321983417"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 7,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "9025535699"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "9015535699",
+      "for_pool": {
+        "cw20": "terra1huw82c9grj9xz9umkc8hqcjqgndadlkrp8rn9u6eh5jh5j2s2t7qs33vry"
+      },
+      "gauge": "single",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "2253883924"
+    },
+    {
+      "source": "pd-dao",
+      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
+      "briber_label": "PD",
+      "proposal_id": 229,
+      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
+      "proposal_status": "executed",
+      "msg_index": 8,
+      "funds": [
+        {
+          "denom": "uluna",
+          "amount": "6449668357"
+        }
+      ],
+      "bribe_token": {
+        "native": "uluna"
+      },
+      "bribe_amount": "6439668357",
+      "for_pool": {
+        "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
+      },
+      "gauge": "single",
+      "distribution": {
+        "func": {
+          "func_type": "linear",
+          "start": 176,
+          "end": 179
+        }
+      },
+      "start_epoch": 176,
+      "end_epoch": 179,
+      "amount_this_epoch": "1609917089"
+    }
+  ]
+}
