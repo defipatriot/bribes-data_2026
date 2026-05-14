@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "epoch": 145,
   "bribes": [
     {
@@ -32,8 +32,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -65,8 +65,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -98,8 +98,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -131,8 +131,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -164,8 +164,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -197,8 +197,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -230,8 +230,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -263,8 +263,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -296,8 +296,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -329,8 +329,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -362,8 +362,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -395,8 +395,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     }
   ]
