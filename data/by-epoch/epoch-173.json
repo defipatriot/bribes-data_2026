@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "epoch": 173,
   "bribes": [
     {
@@ -32,8 +32,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "2310714010"
     },
     {
@@ -65,8 +65,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "924285604"
     },
     {
@@ -98,8 +98,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "462142802"
     },
     {
@@ -131,8 +131,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "616190402"
     },
     {
@@ -164,8 +164,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "616190402"
     },
     {
@@ -197,8 +197,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "308095201"
     },
     {
@@ -230,8 +230,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "308095201"
     },
     {
@@ -263,8 +263,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "308095201"
     },
     {
@@ -296,8 +296,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "1386428406"
     },
     {
@@ -329,8 +329,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "616190402"
     },
     {
@@ -362,8 +362,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "308095201"
     },
     {
@@ -395,8 +395,8 @@
           "end": 175
         }
       },
-      "start_epoch": 172,
-      "end_epoch": 175,
+      "start_epoch": 173,
+      "end_epoch": 176,
       "amount_this_epoch": "770238003"
     }
   ]
