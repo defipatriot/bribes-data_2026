@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "epoch": 148,
   "bribes": [
     {
@@ -32,8 +32,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -65,8 +65,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -98,8 +98,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -131,8 +131,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -164,8 +164,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -197,8 +197,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -230,8 +230,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "262500000"
     },
     {
@@ -263,8 +263,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -296,8 +296,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -329,8 +329,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -362,8 +362,8 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
     },
     {
@@ -395,42 +395,9 @@
           "end": 150
         }
       },
-      "start_epoch": 143,
-      "end_epoch": 150,
+      "start_epoch": 144,
+      "end_epoch": 151,
       "amount_this_epoch": "131250000"
-    },
-    {
-      "source": "pd-dao",
-      "briber_address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
-      "briber_label": "PD",
-      "proposal_id": 180,
-      "proposal_title": "[tla] Adding vote incentives based on trading efficiency + volume",
-      "proposal_status": "executed",
-      "msg_index": 0,
-      "funds": [
-        {
-          "denom": "uluna",
-          "amount": "1007168042"
-        }
-      ],
-      "bribe_token": {
-        "native": "uluna"
-      },
-      "bribe_amount": "997168042",
-      "for_pool": {
-        "cw20": "terra1phz6qdzszgwj303rp5cfpfgcgfq0wwg0na2he980t58mryz69hyqsjkfc0"
-      },
-      "gauge": "single",
-      "distribution": {
-        "func": {
-          "func_type": "linear",
-          "start": 148,
-          "end": 150
-        }
-      },
-      "start_epoch": 148,
-      "end_epoch": 150,
-      "amount_this_epoch": "332389347"
     }
   ]
 }
