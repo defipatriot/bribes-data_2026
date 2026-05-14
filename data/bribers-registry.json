@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "bribers": {
     "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg": {
       "address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
@@ -34,8 +34,8 @@
       ],
       "first_proposal_id": 141,
       "last_proposal_id": 239,
-      "first_epoch_bribed": 131,
-      "last_epoch_bribed": 184
+      "first_epoch_bribed": 132,
+      "last_epoch_bribed": 185
     }
   }
 }
