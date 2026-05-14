@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "cron": "bribes-history",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
+  "capturedAtUnix": 1778801717703,
+  "runId": "bribes-20260514233517",
+  "runMode": "daily",
+  "currentEpoch": 185,
+  "status": "ok",
+  "stats": {
+    "total_proposals": 243,
+    "total_add_bribe_msgs": 157,
+    "executed_bribes": 157,
+    "epochs_with_bribes": 49,
+    "pools_bribed": 23,
+    "bribers": 1
+  },
+  "next_expected_run_at": "2026-05-15T23:35:17.703Z"
+}
