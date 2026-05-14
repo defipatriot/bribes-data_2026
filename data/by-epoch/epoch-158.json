@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "epoch": 158,
   "bribes": [
     {
@@ -32,8 +32,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "1986728652"
     },
     {
@@ -65,8 +65,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "496682163"
     },
     {
@@ -98,8 +98,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "397345730"
     },
     {
@@ -131,8 +131,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "993364326"
     },
     {
@@ -164,8 +164,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "695355028"
     },
     {
@@ -197,8 +197,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "695355028"
     },
     {
@@ -230,8 +230,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "298009297"
     },
     {
@@ -263,8 +263,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "496682163"
     },
     {
@@ -296,8 +296,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "496682163"
     },
     {
@@ -329,8 +329,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "496682163"
     },
     {
@@ -362,8 +362,8 @@
           "end": 159
         }
       },
-      "start_epoch": 156,
-      "end_epoch": 159,
+      "start_epoch": 157,
+      "end_epoch": 160,
       "amount_this_epoch": "496682163"
     }
   ]
