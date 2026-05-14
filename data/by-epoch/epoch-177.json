@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-13T23:35:20.791Z",
+  "capturedAt": "2026-05-14T23:35:17.703Z",
   "epoch": 177,
   "bribes": [
     {
@@ -32,8 +32,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "2253883924"
     },
     {
@@ -65,8 +65,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "804958544"
     },
     {
@@ -98,8 +98,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "1126941962"
     },
     {
@@ -131,8 +131,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "563470981"
     },
     {
@@ -164,8 +164,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "321983417"
     },
     {
@@ -197,8 +197,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "321983417"
     },
     {
@@ -230,8 +230,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "321983417"
     },
     {
@@ -263,8 +263,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "2253883924"
     },
     {
@@ -296,8 +296,8 @@
           "end": 179
         }
       },
-      "start_epoch": 176,
-      "end_epoch": 179,
+      "start_epoch": 177,
+      "end_epoch": 180,
       "amount_this_epoch": "1609917089"
     }
   ]
