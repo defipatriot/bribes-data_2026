@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-30T23:35:21.318Z",
+  "capturedAt": "2026-05-31T23:35:23.920Z",
   "epoch": 170,
   "bribes": [
     {
@@ -34,6 +34,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 283.1,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "1141057532"
     },
     {
@@ -67,6 +72,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "342317259"
     },
     {
@@ -100,6 +110,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "342317259"
     },
     {
@@ -133,6 +148,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "342317259"
     },
     {
@@ -166,6 +186,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "228211506"
     },
     {
@@ -199,6 +224,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "228211506"
     },
     {
@@ -232,6 +262,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 339.72,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "1369269038"
     },
     {
@@ -265,6 +300,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "228211506"
     },
     {
@@ -298,6 +338,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "228211506"
     },
     {
@@ -331,6 +376,11 @@
       },
       "start_epoch": 169,
       "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "228211506"
     }
   ]
