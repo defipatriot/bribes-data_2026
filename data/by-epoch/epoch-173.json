@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-30T23:35:21.318Z",
+  "capturedAt": "2026-05-31T23:35:23.920Z",
   "epoch": 173,
   "bribes": [
     {
@@ -34,6 +34,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 573.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "2310714010"
     },
     {
@@ -67,6 +72,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 229.32,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "924285604"
     },
     {
@@ -100,6 +110,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 114.66,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "462142802"
     },
     {
@@ -133,6 +148,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "616190402"
     },
     {
@@ -166,6 +186,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "616190402"
     },
     {
@@ -199,6 +224,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "308095201"
     },
     {
@@ -232,6 +262,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "308095201"
     },
     {
@@ -265,6 +300,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "308095201"
     },
     {
@@ -298,6 +338,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 343.97,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "1386428406"
     },
     {
@@ -331,6 +376,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "616190402"
     },
     {
@@ -364,6 +414,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "308095201"
     },
     {
@@ -397,6 +452,11 @@
       },
       "start_epoch": 173,
       "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 191.1,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6,
       "amount_this_epoch": "770238003"
     }
   ]
