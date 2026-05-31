@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-05-30T23:35:21.318Z",
+  "capturedAt": "2026-05-31T23:35:23.920Z",
   "currentEpoch": 187,
   "stats": {
     "total_proposals": 245,
@@ -41,7 +41,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -73,7 +78,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -105,7 +115,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -137,7 +152,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -169,7 +189,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -201,7 +226,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -233,7 +263,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -265,7 +300,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -297,7 +337,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -329,7 +374,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -361,7 +411,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -393,7 +448,12 @@
         }
       },
       "start_epoch": 132,
-      "end_epoch": 135
+      "end_epoch": 135,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -425,7 +485,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -457,7 +522,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -489,7 +559,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -521,7 +596,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -553,7 +633,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -585,7 +670,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -617,7 +707,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -649,7 +744,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -681,7 +781,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -713,7 +818,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -745,7 +855,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -777,7 +892,12 @@
         }
       },
       "start_epoch": 140,
-      "end_epoch": 143
+      "end_epoch": 143,
+      "bribe_amount_usd_at_capture": 32.56,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -809,7 +929,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -841,7 +966,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -873,7 +1003,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -905,7 +1040,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -937,7 +1077,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -969,7 +1114,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1001,7 +1151,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 130.25,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1033,7 +1188,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1065,7 +1225,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1097,7 +1262,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1129,7 +1299,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1161,7 +1336,12 @@
         }
       },
       "start_epoch": 144,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 65.13,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1193,7 +1373,12 @@
         }
       },
       "start_epoch": 149,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 61.85,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1225,7 +1410,12 @@
         }
       },
       "start_epoch": 150,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 41.46,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1257,7 +1447,12 @@
         }
       },
       "start_epoch": 150,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 41.46,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1289,7 +1484,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 80.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1321,7 +1521,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 40.38,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1353,7 +1558,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 80.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1385,7 +1595,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 40.38,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1417,7 +1632,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 40.38,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1449,7 +1669,12 @@
         }
       },
       "start_epoch": 151,
-      "end_epoch": 151
+      "end_epoch": 151,
+      "bribe_amount_usd_at_capture": 80.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1481,7 +1706,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 157.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1513,7 +1743,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1545,7 +1780,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1577,7 +1817,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 78.94,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1609,7 +1854,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 55.26,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1641,7 +1891,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 55.26,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1673,7 +1928,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 23.68,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1705,7 +1965,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1737,7 +2002,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1769,7 +2039,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1801,7 +2076,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.47,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1833,7 +2113,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 79.51,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1865,7 +2150,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1897,7 +2187,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1929,7 +2224,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 39.75,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1961,7 +2261,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 27.83,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -1993,7 +2298,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 27.83,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2025,7 +2335,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 11.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2057,7 +2372,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2089,7 +2409,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2121,7 +2446,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2153,7 +2483,12 @@
         }
       },
       "start_epoch": 152,
-      "end_epoch": 152
+      "end_epoch": 152,
+      "bribe_amount_usd_at_capture": 19.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2185,7 +2520,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 359.05,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2217,7 +2557,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 89.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2249,7 +2594,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 71.81,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2281,7 +2631,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 179.53,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2313,7 +2668,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 125.67,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2345,7 +2705,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 125.67,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2377,7 +2742,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 53.86,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2409,7 +2779,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 89.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2441,7 +2816,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 89.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2473,7 +2853,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 89.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2505,7 +2890,12 @@
         }
       },
       "start_epoch": 153,
-      "end_epoch": 156
+      "end_epoch": 156,
+      "bribe_amount_usd_at_capture": 89.76,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2537,7 +2927,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 492.91,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2569,7 +2964,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 123.23,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2601,7 +3001,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 98.58,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2633,7 +3038,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 246.45,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2665,7 +3075,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 172.52,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2697,7 +3112,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 172.52,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2729,7 +3149,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 73.94,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2761,7 +3186,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 123.23,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2793,7 +3223,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 123.23,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2825,7 +3260,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 123.23,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2857,7 +3297,12 @@
         }
       },
       "start_epoch": 157,
-      "end_epoch": 160
+      "end_epoch": 160,
+      "bribe_amount_usd_at_capture": 123.23,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2889,7 +3334,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 489.5,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2921,7 +3371,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 163.17,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2953,7 +3408,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 163.17,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -2985,7 +3445,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 130.53,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3017,7 +3482,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 163.17,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3049,7 +3519,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 130.53,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3081,7 +3556,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 130.53,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3113,7 +3593,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 130.53,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3145,7 +3630,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 97.9,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3177,7 +3667,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 65.27,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3209,7 +3704,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 228.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3241,7 +3741,12 @@
         }
       },
       "start_epoch": 161,
-      "end_epoch": 164
+      "end_epoch": 164,
+      "bribe_amount_usd_at_capture": 228.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3273,7 +3778,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 233.22,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3305,7 +3815,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 93.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3337,7 +3852,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 93.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3369,7 +3889,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 93.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3401,7 +3926,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3433,7 +3963,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 93.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3465,7 +4000,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3497,7 +4037,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3529,7 +4074,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3561,7 +4111,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3593,7 +4148,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3625,7 +4185,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 233.22,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3657,7 +4222,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 139.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3689,7 +4259,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 46.64,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3721,7 +4296,12 @@
         }
       },
       "start_epoch": 165,
-      "end_epoch": 168
+      "end_epoch": 168,
+      "bribe_amount_usd_at_capture": 23.32,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3753,7 +4333,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 283.1,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3785,7 +4370,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3817,7 +4407,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3849,7 +4444,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 84.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3881,7 +4481,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3913,7 +4518,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3945,7 +4555,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 339.72,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -3977,7 +4592,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4009,7 +4629,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4041,7 +4666,12 @@
         }
       },
       "start_epoch": 169,
-      "end_epoch": 172
+      "end_epoch": 172,
+      "bribe_amount_usd_at_capture": 56.62,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4073,7 +4703,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 573.29,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4105,7 +4740,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 229.32,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4137,7 +4777,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 114.66,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4169,7 +4814,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4201,7 +4851,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4233,7 +4888,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4265,7 +4925,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4297,7 +4962,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4329,7 +4999,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 343.97,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4361,7 +5036,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 152.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4393,7 +5073,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 76.44,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4425,7 +5110,12 @@
         }
       },
       "start_epoch": 173,
-      "end_epoch": 176
+      "end_epoch": 176,
+      "bribe_amount_usd_at_capture": 191.1,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4457,7 +5147,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 559.19,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4489,7 +5184,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 199.71,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4521,7 +5221,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 279.59,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4553,7 +5258,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 139.8,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4585,7 +5295,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 79.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4617,7 +5332,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 79.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4649,7 +5369,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 79.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4681,7 +5406,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 559.19,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4713,7 +5443,12 @@
         }
       },
       "start_epoch": 177,
-      "end_epoch": 180
+      "end_epoch": 180,
+      "bribe_amount_usd_at_capture": 399.42,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4745,7 +5480,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 546.88,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4777,7 +5517,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 91.15,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4809,7 +5554,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 227.87,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4841,7 +5591,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 113.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4873,7 +5628,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 113.93,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4905,7 +5665,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 227.87,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4937,7 +5702,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 455.73,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -4969,7 +5739,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 455.73,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5001,7 +5776,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 432.16,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5033,7 +5813,12 @@
         }
       },
       "start_epoch": 182,
-      "end_epoch": 185
+      "end_epoch": 185,
+      "bribe_amount_usd_at_capture": 432.16,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5065,7 +5850,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 551.77,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5097,7 +5887,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 73.57,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5129,7 +5924,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 73.57,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5161,7 +5961,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 183.92,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5193,7 +5998,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 73.57,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5225,7 +6035,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 73.57,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5257,7 +6072,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 110.35,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5289,7 +6109,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 588.55,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5321,7 +6146,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 183.92,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     },
     {
       "source": "pd-dao",
@@ -5353,7 +6183,12 @@
         }
       },
       "start_epoch": 186,
-      "end_epoch": 189
+      "end_epoch": 189,
+      "bribe_amount_usd_at_capture": 183.92,
+      "price_used": 0.062025,
+      "price_source": "direct",
+      "price_captured_at": "2026-05-31T22:40:31.323Z",
+      "price_decimals": 6
     }
   ]
 }
