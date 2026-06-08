@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-07T23:35:16.313Z",
-  "currentEpoch": 188,
+  "capturedAt": "2026-06-08T23:35:17.431Z",
+  "currentEpoch": 189,
   "active_bribes": [
     {
       "gauge": "project",
@@ -69,7 +69,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2223968449"
+          "amount": "2223968450"
         }
       ]
     },
@@ -83,13 +83,13 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "296529126"
+          "amount": "296529127"
         },
         {
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "3160578428"
+          "amount": "3170577432"
         }
       ]
     },
@@ -103,7 +103,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "296529126"
+          "amount": "296529127"
         }
       ]
     },
@@ -117,7 +117,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "741322816"
+          "amount": "741322817"
         }
       ]
     },
@@ -131,7 +131,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "296529126"
+          "amount": "296529127"
         }
       ]
     },
@@ -145,7 +145,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "296529126"
+          "amount": "296529127"
         }
       ]
     },
@@ -165,7 +165,7 @@
           "info": {
             "native": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
           },
-          "amount": "23599999"
+          "amount": "23600000"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2372233012"
+          "amount": "2372233013"
         }
       ]
     },
@@ -193,7 +193,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "741322816"
+          "amount": "741322817"
         }
       ]
     },
@@ -207,35 +207,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "741322816"
-        }
-      ]
-    },
-    {
-      "gauge": "project",
-      "asset": {
-        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-          },
-          "amount": "14420972565"
-        }
-      ]
-    },
-    {
-      "gauge": "stable",
-      "asset": {
-        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-          },
-          "amount": "25235990437"
+          "amount": "741322817"
         }
       ]
     },
@@ -250,6 +222,34 @@
             "native": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
           },
           "amount": "10000000"
+        }
+      ]
+    },
+    {
+      "gauge": "stable",
+      "asset": {
+        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
+      },
+      "assets": [
+        {
+          "info": {
+            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+          },
+          "amount": "25424233631"
+        }
+      ]
+    },
+    {
+      "gauge": "project",
+      "asset": {
+        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+      },
+      "assets": [
+        {
+          "info": {
+            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+          },
+          "amount": "14527165442"
         }
       ]
     }
