@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-12T23:35:15.371Z",
+  "capturedAt": "2026-06-13T23:35:14.887Z",
   "bribers": {
     "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg": {
       "address": "terra1k8ug6dkzntczfzn76wsh24tdjmx944yj6mk063wum7n20cwd7lxq4lppjg",
       "label": "PD",
-      "total_bribes_count": 167,
-      "total_amount_uluna": "347167018573",
+      "total_bribes_count": 178,
+      "total_amount_uluna": "389721856283",
       "pools_bribed": [
         "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4",
         "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht",
@@ -33,9 +33,9 @@
         "terra1jjvy4s4tyw3ym6s3wk896up6jthvha9vtwaetah3z33sd788lttswhrcpc"
       ],
       "first_proposal_id": 141,
-      "last_proposal_id": 244,
+      "last_proposal_id": 247,
       "first_epoch_bribed": 132,
-      "last_epoch_bribed": 189
+      "last_epoch_bribed": 193
     }
   }
 }
