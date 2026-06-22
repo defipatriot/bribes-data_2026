@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-21T23:35:18.512Z",
-  "currentEpoch": 190,
+  "capturedAt": "2026-06-22T23:35:12.723Z",
+  "currentEpoch": 191,
   "active_bribes": [
     {
       "gauge": "project",
@@ -14,48 +14,6 @@
             "native": "ibc/4B44179AC2F0BEE50C16A673B3B886398988692885B2848A1C8AEF27148B3961"
           },
           "amount": "36000000000"
-        }
-      ]
-    },
-    {
-      "gauge": "project",
-      "asset": {
-        "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
-      },
-      "assets": [
-        {
-          "info": {
-            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
-          },
-          "amount": "100000000000"
-        }
-      ]
-    },
-    {
-      "gauge": "single",
-      "asset": {
-        "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
-      },
-      "assets": [
-        {
-          "info": {
-            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
-          },
-          "amount": "100000000000"
-        }
-      ]
-    },
-    {
-      "gauge": "project",
-      "asset": {
-        "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
-      },
-      "assets": [
-        {
-          "info": {
-            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
-          },
-          "amount": "100000000000"
         }
       ]
     },
@@ -74,80 +32,6 @@
       ]
     },
     {
-      "gauge": "bluechip",
-      "asset": {
-        "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
-          },
-          "amount": "33600001"
-        },
-        {
-          "info": {
-            "native": "uluna"
-          },
-          "amount": "580293241"
-        }
-      ]
-    },
-    {
-      "gauge": "stable",
-      "asset": {
-        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-          },
-          "amount": "22589200496"
-        }
-      ]
-    },
-    {
-      "gauge": "project",
-      "asset": {
-        "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-          },
-          "amount": "3160509996"
-        },
-        {
-          "info": {
-            "native": "uluna"
-          },
-          "amount": "580293241"
-        }
-      ]
-    },
-    {
-      "gauge": "project",
-      "asset": {
-        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
-      },
-      "assets": [
-        {
-          "info": {
-            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
-          },
-          "amount": "12294141761"
-        },
-        {
-          "info": {
-            "cw20": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
-          },
-          "amount": "200000000000000"
-        }
-      ]
-    },
-    {
       "gauge": "project",
       "asset": {
         "cw20": "terra1my4tml2ae4zewq0u5fpq2qzq4rdpfh5pq7y3eekxxhwxdwdmce4shw9mt4"
@@ -162,6 +46,26 @@
       ]
     },
     {
+      "gauge": "project",
+      "asset": {
+        "cw20": "terra14lul8rjcad0jeuu680n4q7dwgxjkr6mqzx8umyewj8c6xn93squqllleht"
+      },
+      "assets": [
+        {
+          "info": {
+            "native": "uluna"
+          },
+          "amount": "580293242"
+        },
+        {
+          "info": {
+            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+          },
+          "amount": "3171729394"
+        }
+      ]
+    },
+    {
       "gauge": "bluechip",
       "asset": {
         "cw20": "terra1euf8klqukk4wlly90nve0n6drqvq9pst73wc34pruuvx09nptxyse68hgl"
@@ -171,7 +75,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "580293241"
+          "amount": "580293242"
         }
       ]
     },
@@ -185,7 +89,27 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "580293241"
+          "amount": "580293242"
+        }
+      ]
+    },
+    {
+      "gauge": "bluechip",
+      "asset": {
+        "cw20": "terra17thxg96vtxv39kcltc0dvrltqgkumu8fv93rpz3xz98675cgxdjq3y4ddn"
+      },
+      "assets": [
+        {
+          "info": {
+            "native": "uluna"
+          },
+          "amount": "580293242"
+        },
+        {
+          "info": {
+            "native": "ibc/2C962DAB9F57FE0921435426AE75196009FAA1981BF86991203C8411F8980FDB"
+          },
+          "amount": "10000000"
         }
       ]
     },
@@ -199,7 +123,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "580293241"
+          "amount": "580293242"
         }
       ]
     },
@@ -284,6 +208,82 @@
             "cw20": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
           },
           "amount": "200000000000000"
+        }
+      ]
+    },
+    {
+      "gauge": "project",
+      "asset": {
+        "cw20": "terra1vczn40ch624g2kserhzqu2n69j3h7h7c5nfeznw96pnxjuly5h5s25u9dm"
+      },
+      "assets": [
+        {
+          "info": {
+            "cw20": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv"
+          },
+          "amount": "200000000000000"
+        },
+        {
+          "info": {
+            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+          },
+          "amount": "12277996058"
+        }
+      ]
+    },
+    {
+      "gauge": "stable",
+      "asset": {
+        "cw20": "terra1s275y73lfupag0g03nglxaedfnsw5z4m5zc9wk66guy503zuw5ss889tlx"
+      },
+      "assets": [
+        {
+          "info": {
+            "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
+          },
+          "amount": "22581241780"
+        }
+      ]
+    },
+    {
+      "gauge": "project",
+      "asset": {
+        "cw20": "terra12usr3jlgvuzq70kpt6u03stxrgzwpjxnej6herpuw9t7echj8z3q44dyyk"
+      },
+      "assets": [
+        {
+          "info": {
+            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+          },
+          "amount": "100000000000"
+        }
+      ]
+    },
+    {
+      "gauge": "single",
+      "asset": {
+        "native": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA"
+      },
+      "assets": [
+        {
+          "info": {
+            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+          },
+          "amount": "100000000000"
+        }
+      ]
+    },
+    {
+      "gauge": "project",
+      "asset": {
+        "cw20": "terra1cg9t08mqa88us074mpwpuu8lp5w4jwtye3vaazll45w27at52cpsq7c564"
+      },
+      "assets": [
+        {
+          "info": {
+            "cw20": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar"
+          },
+          "amount": "100000000000"
         }
       ]
     }
