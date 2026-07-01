@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "cron": "bribes-history",
-  "capturedAt": "2026-06-30T23:35:23.033Z",
-  "capturedAtUnix": 1782862523033,
-  "runId": "bribes-20260630233523",
+  "capturedAt": "2026-07-01T23:35:15.481Z",
+  "capturedAtUnix": 1782948915481,
+  "runId": "bribes-20260701233515",
   "runMode": "daily",
   "currentEpoch": 192,
   "status": "ok",
@@ -21,5 +21,5 @@
   "previousFingerprint": "63971dc11c3c",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-07-01T23:35:23.033Z"
+  "next_expected_run_at": "2026-07-02T23:35:15.481Z"
 }
