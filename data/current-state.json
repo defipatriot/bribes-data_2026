@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-26T23:35:21.204Z",
-  "currentEpoch": 195,
+  "capturedAt": "2026-07-27T23:35:25.715Z",
+  "currentEpoch": 196,
   "active_bribes": [
     {
       "gauge": "project",
@@ -117,7 +117,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2119727734"
+          "amount": "2119727733"
         }
       ]
     },
@@ -131,13 +131,13 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "423945547"
+          "amount": "423945546"
         },
         {
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "3173092158"
+          "amount": "3162714968"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2119727734"
+          "amount": "2119727733"
         }
       ]
     },
@@ -235,7 +235,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "423945547"
+          "amount": "423945546"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "27658348215"
+          "amount": "27641469904"
         }
       ]
     },
@@ -277,7 +277,7 @@
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "14259311661"
+          "amount": "14258799282"
         }
       ]
     }
