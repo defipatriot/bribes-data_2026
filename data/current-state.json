@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-08-02T23:35:22.068Z",
-  "currentEpoch": 196,
+  "capturedAt": "2026-08-03T23:35:23.543Z",
+  "currentEpoch": 197,
   "active_bribes": [
     {
       "gauge": "project",
@@ -103,7 +103,7 @@
           "info": {
             "cw20": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst"
           },
-          "amount": "51683962"
+          "amount": "25399873"
         }
       ]
     },
@@ -117,7 +117,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2119727733"
+          "amount": "2119727734"
         }
       ]
     },
@@ -131,13 +131,13 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "423945546"
+          "amount": "423945547"
         },
         {
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "3162714968"
+          "amount": "3172077499"
         }
       ]
     },
@@ -165,7 +165,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "211972773"
+          "amount": "211972774"
         }
       ]
     },
@@ -179,7 +179,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "211972773"
+          "amount": "211972774"
         }
       ]
     },
@@ -193,7 +193,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "211972773"
+          "amount": "211972774"
         }
       ]
     },
@@ -207,7 +207,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "2119727733"
+          "amount": "2119727734"
         }
       ]
     },
@@ -221,7 +221,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "847891093"
+          "amount": "847891094"
         }
       ]
     },
@@ -235,7 +235,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "423945546"
+          "amount": "423945547"
         }
       ]
     },
@@ -249,7 +249,7 @@
           "info": {
             "native": "uluna"
           },
-          "amount": "847891093"
+          "amount": "847891094"
         }
       ]
     },
@@ -263,7 +263,7 @@
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "27641469904"
+          "amount": "27737143908"
         }
       ]
     },
@@ -277,7 +277,7 @@
           "info": {
             "native": "ibc/8D8A7F7253615E5F76CB6252A1E1BD921D5EDB7BBAAF8913FB1C77FF125D9995"
           },
-          "amount": "14258799282"
+          "amount": "14305200016"
         }
       ]
     }
