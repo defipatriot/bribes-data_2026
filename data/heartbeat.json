@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "cron": "bribes-history",
-  "capturedAt": "2026-08-03T23:35:23.543Z",
-  "capturedAtUnix": 1785800123543,
-  "runId": "bribes-20260803233523",
+  "capturedAt": "2026-08-04T23:35:28.311Z",
+  "capturedAtUnix": 1785886528311,
+  "runId": "bribes-20260804233528",
   "runMode": "daily",
   "currentEpoch": 197,
   "status": "ok",
@@ -18,8 +18,8 @@
     "epochs_funded_ahead": 0
   },
   "dataFingerprint": "74c3b713f1f7",
-  "previousFingerprint": "7c75786d678b",
+  "previousFingerprint": "74c3b713f1f7",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-08-04T23:35:23.543Z"
+  "next_expected_run_at": "2026-08-05T23:35:28.311Z"
 }
